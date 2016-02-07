@@ -6,7 +6,7 @@ from __future__ import print_function
 from __future__ import division
 from __future__ import unicode_literals
 
-__author__ = "Bharath Ramsundar"
+__author__ = "Bharath Ramsundar and Evan Feinberg"
 __copyright__ = "Copyright 2016, Stanford University"
 __license__ = "LGPL"
 
